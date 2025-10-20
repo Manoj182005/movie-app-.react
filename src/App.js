@@ -1,4 +1,4 @@
-import MovieCard from "./moviecard";
+import MovieCard from "./MovieCard";
 
 export default function App() {
   return (
