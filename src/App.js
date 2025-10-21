@@ -1,10 +1,13 @@
 import MovieCard from "./MovieCard";
+import Navbar from "./Navbar";
 
 export default function App() {
   return (
     <>
-    <h1>Movie Name</h1>
+ 
+
     <MovieCard/>
+    <Navbar />
     </>
 
   );
